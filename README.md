@@ -1,6 +1,13 @@
-
 :::info
+
 This text changed in add-self-introduction-conflict
+
+:::
+
+:::danger
+
+change in main
+
 :::
 
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
